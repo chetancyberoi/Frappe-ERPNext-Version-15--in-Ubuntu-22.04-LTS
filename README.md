@@ -55,7 +55,7 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 22.04 LTS
 
 ### STEP 2 install python-dev
 
-    sudo apt-get install python3-dev
+    sudo apt-get install python3.11-dev
 
 ### STEP 3 Install setuptools and pip (Python's Package Manager).
 
